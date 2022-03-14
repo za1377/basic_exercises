@@ -9,10 +9,10 @@ class Model{
 
     public function connect()
     {
-        $servername = "127.0.0.1";
-        $database = "project";
-        $username = "rymn";
-        $password = "za1377@#";
+        $servername = "localhost";
+        $database = "DataBaseName";
+        $username = "username";
+        $password = "password";
         $charset = "utf8mb4";
 
         try {
